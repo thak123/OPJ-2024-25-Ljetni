@@ -2,6 +2,7 @@
 Repository for storing all files and excercises for students.
 
 # Teams
-- [HighFive](https://github.com/HighFive-OPJ/HighFive)
+- [HighFive](https://github.com/HighFive-OPJ/OPJ-Corpus)
 - [Team 2](https://github.com/NLP2425/NLPproject)
 - [4042](https://github.com/4042-OPJ/OPJ-Recenzije)
+
